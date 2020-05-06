@@ -3,7 +3,7 @@
     Created on : 1 may. 2020, 21:27:25
     Author     : Mau Morales
 --%>
-<%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
